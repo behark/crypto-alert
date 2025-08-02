@@ -25,10 +25,10 @@ Create a `.env` file in your project root with:
 
 ```env
 # Telegram Bot Configuration
-TELEGRAM_BOT_TOKEN=8084043323:AAE5oJYBKjVdkV-W9AFJ-8XtiL9egpoAmu8
+TELEGRAM_BOT_TOKEN=
 
 # Channel ID (replace with your actual channel ID)
-TELEGRAM_CHAT_ID=-1002675685695
+TELEGRAM_CHAT_ID=-
 
 # Optional settings
 SCAN_INTERVAL=30
